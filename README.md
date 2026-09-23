@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**martinkraud/martinkraud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Martin! 👋
 
-Here are some ideas to get you started:
+💻 C# / .NET developer in training  
+📍 Bergen, Norway
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning backend development and building
+my own projects while exploring new technologies.
+
+### 🛠️ Tech & Tools
+- C# / .NET / ASP.NET Core
+- SQL Server
+- Git & GitHub
+- Visual Studio / VS Code
+- Python
+
+### 🚀 Currently working on
+- Learning REST APIs and backend development
+- Building personal projects
+- Improving my C# skills
+
+### 🌐 Find me
+[My website](https://mkraudstein.no)
