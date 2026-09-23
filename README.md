@@ -12,7 +12,6 @@ my own projects while exploring new technologies.
 - SQL Server
 - Git & GitHub
 - Visual Studio / VS Code
-- Python
 
 ### 🚀 Currently working on
 - Learning REST APIs and backend development
